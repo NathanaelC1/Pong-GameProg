@@ -32,7 +32,7 @@ Enjoy this fun, fast-paced game with simple controls!
 ## 📥 Download Game  
 
 Click the link below to download **NyaPong**:  
-[Download NyaPong]((https://drive.google.com/drive/folders/11J3UDdVZ1huwo3TEXZ05vhM3BCWjFuLX?usp=sharing))  
+[Download NyaPong](https://drive.google.com/drive/folders/11J3UDdVZ1huwo3TEXZ05vhM3BCWjFuLX?usp=sharing)  
 
 ---
 
